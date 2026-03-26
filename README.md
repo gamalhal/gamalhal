@@ -5,6 +5,11 @@ I'm a **Software Engineer** with a strong background in **Computer Science** (Ca
 
 ---
 
+### 🌐 My Portfolio
+🚀 Check out my work and projects here: [gamal-my-portfolio.netlify.app](https://gamal-my-portfolio.netlify.app/)
+
+---
+
 ### 🛠️ Professional Skills
 * **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS.
 * **Problem Solving:** Deeply interested in **Data Structures & Algorithms**.
