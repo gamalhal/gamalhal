@@ -6,7 +6,7 @@ I'm a **Software Engineer** with a strong background in **Computer Science** (Ca
 ---
 
 ### 🌐 My Portfolio
-🚀 Check out my work and projects here: [gamal-my-portfolio.netlify.app]([https://gamal-my-portfolio.netlify.app/](https://myportfolio-gamalhal.gamalhal-chi.workers.dev/))
+🚀 Check out my work and projects here: https://myportfolio-gamalhal.gamalhal-chi.workers.dev
 
 ---
 
